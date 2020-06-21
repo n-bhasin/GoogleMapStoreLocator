@@ -226,3 +226,13 @@ border-width: 0;
   justify-content: center;
   margin-right: 8px;
 }
+
+.patent {
+  position: absolute;
+  top: 5px;
+  left: 180px;
+  z-index: 99999;
+  color: #ffffff;
+  padding:5px
+  background-color: #000000;
+}
